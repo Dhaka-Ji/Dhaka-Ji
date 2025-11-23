@@ -1,6 +1,6 @@
 <!-- Profile Banner (Optional) -->
 <p align="center">
-  <img src="https://i.imgur.com/AV9GkJC.jpeg" width="800"/>
+  <img src="[https://i.imgur.com/AV9GkJC.jpeg](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-code-on-it-eDUKZFYY1K4)" width="800"/>
 </p>
 
 <h1 align="center">🕶️ Ankit Dhaka — Offensive Security Learner</h1>
