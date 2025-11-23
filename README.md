@@ -1,106 +1,114 @@
-<!-- Profile Banner (Optional) -->
-<p align="center">
-  <img src="[https://i.imgur.com/AV9GkJC.jpeg](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-code-on-it-eDUKZFYY1K4)" width="800"/>
-</p>
-
-<h1 align="center">🕶️ Ankit Dhaka — Offensive Security Learner</h1>
+<h1 align="center">Hi 👋, I'm Ankit Dhaka</h1>
+<h3 align="center">Offensive Security | Penetration Testing | Red Team Learner</h3>
 
 <p align="center">
-  <i>“Attackers don’t guess. They understand.”</i>
+  <i>"Attackers don't guess. They understand."</i>
 </p>
 
 ---
 
-### 🕵️‍♂️ Who Am I?
-A cybersecurity student who prefers **terminal over theory**,  
-labs over lectures, and **post-exploitation over definitions**.
+### 🧑‍💻 About Me
 
-I break systems to:
-- understand **how they fail**  
-- build defenses that **actually matter**  
-- and never trust assumptions
+- 🎯 Cyber Security student focused on **VAPT, Web App Security & Network Pentesting**
+- 💻 Completed **100+ hands-on labs** on TryHackMe / Hack The Box / VulnHub  
+- 🧠 Love working on **post-exploitation, privilege escalation & attack chains**
+- 🧾 Believe in **clean documentation & writeups**, not just “solved” tags
 
 ---
 
-## 🧠 Current Focus
-🔐 Active Directory attacks (Kerberos, Rubeus, lateral movement)  
-🐧 Linux privilege escalation through misconfigs + kernel paths  
-🕸️ Web attack chains (LFI → RCE → persistence → root)  
-🔥 Practical pentesting mindset over textbook learning
+
+## ⚙️ Tech & Tools
+
+<div align="center">
+
+<!-- Pentest / Security -->
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-004F8C?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nessus-29A6A6?style=for-the-badge&logo=tenable&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+
+<!-- Scripting / OS -->
+<img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
 
 ---
 
-## 🧰 Arsenal (Tools I Actually Use)
-BurpSuite | Nmap | Metasploit | Nessus
-Wireshark | OWASP ZAP | Kali Linux
-Rubeus | LinPEAS | PowerShell
+## 🧨 Labs & Writeups
 
+### 🔐 VulnNet: Roasted — TryHackMe
+- Targeted a **Windows Active Directory** environment  
+- Used **Kerberos attacks, Rubeus, lateral movement & credential harvesting**  
+- Achieved **full domain compromise**
 
-> Tools are shortcuts.  
-> **Mindset is the real weapon.**
-
----
-
-# ⚔️ Battles & Hunt Logs
-
-### 🔥 VulnNet: Roasted — TryHackMe
-**Objective:** Compromise a Windows domain  
-- Kerberos attacks, AD abuse, credential extraction  
-- Post-exploitation → lateral movement → takeover  
-
-> “The domain never falls in one move.”
+> AD is all about understanding how trust is implemented — and then abusing it.
 
 ---
 
-### 🕳️ Include — TryHackMe
-**Entry:** LFI  
-**Weaponization:** PHP filters → RCE  
-**Finish:** kernel escalation + root
+### 🕳 Include — TryHackMe
+- Started from a **Local File Inclusion (LFI)**  
+- Chained into **PHP filter exploitation → Remote Code Execution**  
+- Finished with **kernel-level privilege escalation** to root
 
-> “Small holes become tunnels if you dig correctly.”
-
----
-
-### 🧨 DC-6 — Vulnhub
-Enumeration → misconfig → sudo → cron exploitation
-
-> “Linux doesn’t give you root.
-It leaves breadcrumbs and dares you to spot them.”
+> Small bugs can become full-chain exploits if you know how to pivot.
 
 ---
 
-## 🏴‍☠️ Credentials (Not Wallpapers)
-- 🧪 **Jr. Penetration Tester** — TryHackMe
-- 🔐 **Ethical Hacking** — Craw Cyber Security
-- 🛡️ **Foundations of Cybersecurity** — Google
-- 🌐 **Web Fundamentals** — TryHackMe
-- 🐧 **Linux Essentials** — Craw
-- 📡 **Networking** — Craw
+### 🧩 DC-6 — VulnHub
+- Heavy **enumeration**, misconfiguration hunting & privilege escalation  
+- Used **LinPEAS, sudo misconfigs, cron jobs & reverse shells**  
+- Box rooted with a mix of patience and creativity
+
+> Linux privesc is not luck, it's pattern recognition.
 
 ---
 
-## 🧬 Education
-🖥️ **B.Tech CSE** — Sobhasaria Engineering College  
-🔓 **Cyber Security Diploma** — Craw Cyber Security
+## 🎓 Certifications
+
+- 🧪 **Jr Penetration Tester** — TryHackMe  
+- 🔐 **Ethical Hacking** — Craw Cyber Security  
+- 🛡️ **Foundations of Cybersecurity** — Google  
+- 🌐 **Web Fundamentals** — TryHackMe  
+- 🐧 **Linux Essentials** — Craw Cyber Security  
+- 📡 **Networking** — Craw Cyber Security  
 
 ---
 
-## 📜 Languages
-🇮🇳 Hindi — Fluent  
-🇬🇧 English — Conversational
+## 📚 Education
+
+- 💻 **B.Tech in Computer Science & Engineering**  
+  Sobhasaria Engineering College, Sikar (2020–2025)
+
+- 🔓 **Cyber Security Diploma**  
+  Craw Cyber Security, Delhi (2025)
 
 ---
 
-## 🔗 Socials
-📩 Email: **ankitdhaka752@gmail.com**  
-📱 Phone: **+91 7014032173**  
-🎯 LinkedIn: www.linkedin.com/in/ankit-dhaka-10275223a 
-🌐 Portfolio: https://ankitdhaka-hx5x1li.gamma.site/
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:ankitdhaka752@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <p align="center">
-  <i>“Defenders protect what they understand. Attackers learn what others ignore.”</i>
+  <i>“Security is about breaking assumptions before attackers do.”</i>
 </p>
-
-
